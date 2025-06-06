@@ -88,5 +88,5 @@ License
 This project is open source and available under the MIT License.
 
 Contact
-Created by Shafaq Ali – GitHub | Email
+Created by Shafaq 
 
