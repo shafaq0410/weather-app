@@ -1,4 +1,7 @@
 Weather App 🌤️
+
+
+
 A simple and elegant Node.js & Express web app that fetches and displays real-time weather information for any city using the OpenWeatherMap API.
 
 Features
